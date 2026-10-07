@@ -96,4 +96,4 @@ TrabalhoExcecao/
 ```
 
 ## Licença
-UECE © 2026 *(preencher com os nomes da equipe)*
+UECE © 2026 Tiago e Laura
